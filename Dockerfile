@@ -1,4 +1,4 @@
-FROM cfgamboa/osg-base
+FROM carlosgamboa/osg-base
 MAINTAINER Carlos Fernando Gamboa  "cgamboa@bnl.gov"
 
 RUN yum install -y squid
