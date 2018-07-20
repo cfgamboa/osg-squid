@@ -1,5 +1,5 @@
 FROM pnnlhep/osg-base
-MAINTAINER Kevin Fox "Kevin.Fox@pnnl.gov"
+MAINTAINER Carlos Fernando Gamboa  "cgamboa@bnl.gov"
 
 RUN yum install -y squid
 ADD ./start.sh /etc/start.sh
